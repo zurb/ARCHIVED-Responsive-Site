@@ -21,7 +21,7 @@
           <div class="four columns">
             <a href="whats-new.php"><img src="http://placehold.it/140x100" /><!--<div class="pic" id="homepageImgSass"></div>--></a>
 
-            <h5><a href="#">Fluid Grid</a></h5>
+            <h5><a href="grid.php">Fluid Grid</a></h5>
             <p>Foundation 3 is built with Sass, a powerful CSS preprocessor, which allows us to much more quickly develop Foundation itself &mdash; and gives you new tools to quickly customize and built on top of Foundation.</p>
           </div>
           <div class="four columns">
