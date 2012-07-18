@@ -13,7 +13,7 @@
   <section id="mainContent">
 
 	<div class="row">
-		<div class="nine columns push-three">
+		<div class="nine columns">
 			
 			<div class="row">
 				<div class="twelve columns">
@@ -171,10 +171,10 @@
 			
 		</div>
 		
-		<div class="three columns pull-nine">
+		<div class="three columns">
 			<ul class="side-nav">
 			  <input class="input-search" id="search" type="text" placeholder="Search">
-			  <li class="divider"></li>
+			 
 			  <li>Popular Articles</li>
 			  <li><a href="#">Learn more about blah blah... </br>8 comments &rarr;</a></li>
 			  <li><a href="#">Learn more about blah blah... </br>8 comments &rarr;</a></li>

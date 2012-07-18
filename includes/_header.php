@@ -66,13 +66,13 @@
 
   		<ul class="right">
   			<li>
-  			  <a href="grid.php" <?php if (isset($featuresTab)) echo 'class="current"'; ?>>Home</a>
+  			  <a href="index.php" <?php if (isset($featuresTab)) echo 'class="current"'; ?>>Home</a>
   			</li>
   			<li>
-  			  <a href="case-flite.php" <?php if (isset($caseStudiesTab)) echo 'class="current"'; ?>>Articles</a>
+  			  <a href="articles.php" <?php if (isset($caseStudiesTab)) echo 'class="current"'; ?>>Articles</a>
   			</li>
   			<li>
-  			  <a href="docs">Tools and Tips</a>
+  			  <a href="tools.php">Tools and Tips</a>
   			</li>
   		 <!-- <li>
   		    <a href="http://github.com/zurb/foundation">GitHub</a>

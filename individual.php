@@ -13,7 +13,7 @@
   <section id="mainContent">
 
 	<div class="row">
-		<div class="nine columns push-three">
+		<div class="nine columns">
 			
 			<div class="row">
 				<h1>Article Title</h1>
@@ -82,16 +82,16 @@
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 					</p>
+					<a href="index.php">← Back to Articles</a>
 				</div>
 			</div>
 			
 		</div>
 		
-		<div class="three columns pull-nine">
+		<div class="three columns">
+			
+			<input class="input-search" id="search" type="text" placeholder="Search">
 			<ul class="side-nav">
-			  <input class="input-search" id="search" type="text" placeholder="Search">
-			   <li><a href="index.php">← Back to Articles</a></li>
-			  <li class="divider"></li>
 			  <li>Popular Articles</li>
 			  <li><a href="#">Learn more about blah blah... </br>8 comments &rarr;</a></li>
 			  <li><a href="#">Learn more about blah blah... </br>8 comments &rarr;</a></li>

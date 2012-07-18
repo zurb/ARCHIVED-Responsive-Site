@@ -4792,3 +4792,8 @@ span.fb .fb_iframe_widget {
   float: right;
   margin-left: 20px;
 }
+
+/* line 54, ../sass/app.scss */
+#search {
+  margin-bottom: 30px;
+}
