@@ -4717,8 +4717,8 @@ header#homepage .button:hover {
    Table of Contents
 -----------------------------------------------------
 :: Shared Styles
-:: Page Name 1
-:: Page Name 2
+:: Home
+:: Articles
 */
 /* -----------------------------------------
    Shared Styles
@@ -4754,5 +4754,41 @@ header#homepage .button:hover {
 }
 
 /* -----------------------------------------
-   Page Name 2
+   Articles & Individual
 ----------------------------------------- */
+/* line 41, ../sass/app.scss */
+img.bump-photo {
+  margin-top: 14px !important;
+}
+
+/* line 42, ../sass/app.scss */
+.top-social ul li {
+  float: left;
+  list-style: none;
+  padding: 0 10px;
+}
+
+/* line 44, ../sass/app.scss */
+.twitter-share-button.twitter-count-horizontal {
+  width: 90px;
+  height: 20px;
+  margin-bottom: -4px;
+  margin-left: 20px;
+}
+
+/* line 49, ../sass/app.scss */
+span.fb .fb_iframe_widget {
+  margin-bottom: -5px !important;
+  margin-left: -15px !important;
+}
+
+/* line 51, ../sass/app.scss */
+#I0_1342644544594 {
+  margin: 0 0 -4px 2px !important;
+}
+
+/* line 52, ../sass/app.scss */
+.float-right {
+  float: right;
+  margin-left: 20px;
+}

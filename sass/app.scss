@@ -5,8 +5,8 @@
    Table of Contents
 -----------------------------------------------------
 :: Shared Styles
-:: Page Name 1
-:: Page Name 2
+:: Home
+:: Articles
 */
 
 $minPad: 10px;
@@ -31,7 +31,22 @@ $minMargin: 10px;
 #github {background: #3f3f3f;padding: 20px;
 	img { width: 100%; }
 }
+
+
+
 /* -----------------------------------------
-   Page Name 2
+   Articles & Individual
 ----------------------------------------- */
 
+img.bump-photo { margin-top: 14px !important; }
+.top-social { ul { li { float: left; list-style: none; padding: 0 10px; } } }
+
+.twitter-share-button.twitter-count-horizontal { width: 90px;
+height: 20px;
+margin-bottom: -4px;
+margin-left: 20px; }
+
+span.fb .fb_iframe_widget { margin-bottom: -5px !important; margin-left: -15px !important; }
+
+#I0_1342644544594 { margin: 0 0 -4px 2px !important; }
+.float-right { float: right; margin-left: 20px;}
