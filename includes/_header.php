@@ -30,7 +30,7 @@
   <meta name="author" content="ZURB, inc. ZURB network also includes zurb.com" />
   <meta name="copyright" content="ZURB, inc. Copyright (c) 2012" />
 
-	<title>Responsive Design <?= $page_title ?></title>
+	<title>Responsive Design</title>
 
 	<!-- Included CSS Files -->
   <link rel="stylesheet" href="http://www.zurb.com/assets/foundation.top-bar.css">
