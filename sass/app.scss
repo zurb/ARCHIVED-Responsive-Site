@@ -32,6 +32,7 @@ $minMargin: 10px;
 	img { width: 100%; }
 }
 
+.home-image { margin-top: ($minMargin +5); &:last-child { margin-bottom: ($minMargin *2); }}
 
 
 /* -----------------------------------------

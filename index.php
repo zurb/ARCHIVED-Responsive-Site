@@ -84,48 +84,78 @@
 
   <section id="caseStudies">
    
-
     <div class="row">
-      <div class="six columns">
-      	<h3><a href="#">Tools and Tips:</a></h3>
-        <div class="case-study">
-          <a href="case-flite.php"><img src="http://placehold.it/140x140" /></a>
-
-          <h4><a href="case-flite.php">Header</a></h4>
-          <p>When online advertising tech firm Flite needed to do a redesign of its website, it knew that it had to work on any device, not just desktops.<br /><a href="case-flite.php">Read more &rarr;</a></p>
+      <div class="eight columns">
+      	<h3><a href="#">Popular Articles:</a></h3>
+       	<div class="row">
+       		<div class="four columns">
+          <a href="case-soapbox.php"><img src="http://placehold.it/200x140" class="home-image"/></a>
+       		</div>
+       		<div class="eight columns">
+	          <h4><a href="case-soapbox.php">This is an article title</a></h4>
+	          <p>One of the first sites built with Foundation, this site helps visitors to ZURB's speaking series learn, listen, and RSVP to events.<br /><a href="#">Read more &rarr;</a></p>
+       		</div> 
         </div>
-         <div class="case-study">
-          <a href="case-swizzle.php"><img src="http://placehold.it/140x140" /></a>
-
-          <h4><a href="case-swizzle.php">Navigation</a></h4>
-          <p>Online service and design agency Swizzle built this site just a month after the release of Foundation, and it's beautifully responsive.<br /><a href="case-swizzle.php">Read more &rarr;</a></p>
+        <div class="row">
+       		<div class="four columns">
+          <a href="case-soapbox.php"><img src="http://placehold.it/200x140" class="home-image" /></a>
+       		</div>
+       		<div class="eight columns">
+	          <h4><a href="case-soapbox.php">This is an article title</a></h4>
+	          <p>One of the first sites built with Foundation, this site helps visitors to ZURB's speaking series learn, listen, and RSVP to events.<br /><a href="#">Read more &rarr;</a></p>
+       		</div> 
+        </div>
+        
+      </div>
+      
+      <div class="four columns">
+      	<h3><a href="#">Tools and Tips:</a></h3>
+        <div class="row">
+        	<div class="four columns">
+        		<a href="#"><img src="http://placehold.it/150x100" class="home-image" /></a>
+        	</div>
+        	<div class="eight columns">
+        		<h4><a href="case-flite.php">Header</a></h4>
+        	</div>
+        </div>
+        
+        <div class="row">
+        	<div class="four columns">
+        		<a href="#"><img src="http://placehold.it/150x100" class="home-image" /></a>
+        	</div>
+        	<div class="eight columns">
+        		<h4><a href="case-flite.php">Navigation</a></h4>
+        	</div>
+        </div>
+        
+        <div class="row">
+        	<div class="four columns">
+        		<a href="#"><img src="http://placehold.it/150x100" class="home-image" /></a>
+        	</div>
+        	<div class="eight columns">
+        		<h4><a href="case-flite.php">Sidebar</a></h4>
+        	</div>
+        </div>
+        
+        <div class="row">
+        	<div class="four columns">
+        		<a href="#"><img src="http://placehold.it/150x100" class="home-image" /></a>
+        	</div>
+        	<div class="eight columns">
+        		<h4><a href="case-flite.php">Footer</a></h4>
+        	</div>
         </div>
       </div>
       
-      <div class="six columns">
-      	<h3><a href="#">Popular Articles:</a></h3>
-       	<div class="case-study">
-          <a href="case-soapbox.php"><img src="http://placehold.it/140x140" /></a>
-
-          <h4><a href="case-soapbox.php">Forms</a></h4>
-          <p>One of the first sites built with Foundation, this site helps visitors to ZURB's speaking series learn, listen, and RSVP to events.<br /><a href="case-soapbox.php">Read more &rarr;</a></p>
-        </div>
-        <div class="case-study">
-          <a href="case-reel.php"><img src="http://placehold.it/140x140" /></a>
-
-          <h4><a href="case-reel.php">Sidebar</a></h4>
-          <p>A presentation hosting Web app built by ZURB, Foundation not only drives the entire app UI, but also drives its embeddable presentations.<br /><a href="case-reel.php">Read more &rarr;</a></p>
-        </div>
-      </div>
     </div>
 
     
     <div class="row">
-    	<div class="six columns">
-    		<a href="#">See more tools and tips &rarr;</a>
-    	</div>
-    	<div class="six columns">
+    	<div class="eight columns">
     		<a href="#">See more articles &rarr;</a>
+    	</div>
+    	<div class="four columns">
+    		<a href="#">See more tools and tips &rarr;</a>
     	</div>
     </div>
     
