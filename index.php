@@ -53,7 +53,7 @@
    
     <div class="row">
       <div class="eight columns">
-      	<h3><a href="#">Recent Articles:</a></h3>
+      	<h3>Recent Articles:</h3>
        	<div class="row">
        		<div class="four columns">
           <a href="case-soapbox.php"><img src="http://placehold.it/200x140" class="home-image"/></a>
@@ -76,7 +76,7 @@
       </div>
       
       <div class="four columns">
-      	<h3><a href="#">Tools and Tips:</a></h3>
+      	<h3>Tools and Tips:</h3>
         <div class="row">
         	<div class="four columns">
         		<a href="#"><img src="images/header-icon.png" class="home-image" /></a>
