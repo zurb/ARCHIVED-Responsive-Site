@@ -56,7 +56,7 @@
       	<h3>Recent Articles:</h3>
        	<div class="row">
        		<div class="four columns">
-          <a href="case-soapbox.php"><img src="http://placehold.it/200x140" class="home-image"/></a>
+          <a href="articles.php"><img src="http://placehold.it/200x140" class="home-image"/></a>
        		</div>
        		<div class="eight columns">
 	          <h4><a href="case-soapbox.php">This is an article title</a></h4>
@@ -65,7 +65,7 @@
         </div>
         <div class="row">
        		<div class="four columns">
-          <a href="case-soapbox.php"><img src="http://placehold.it/200x140" class="home-image" /></a>
+          <a href="#"><img src="http://placehold.it/200x140" class="home-image" /></a>
        		</div>
        		<div class="eight columns">
 	          <h4><a href="case-soapbox.php">This is an article title</a></h4>
@@ -79,10 +79,10 @@
       	<h3>Tools and Tips:</h3>
         <div class="row">
         	<div class="four columns">
-        		<a href="#"><img src="images/header-icon.png" class="home-image" /></a>
+        		<a href="tools.php"><img src="images/header-icon.png" class="home-image" /></a>
         	</div>
         	<div class="eight columns">
-        		<h4><a href="#">Header</a></h4>
+        		<h4><a href="tools.php">Header</a></h4>
         	</div>
         </div>
         
