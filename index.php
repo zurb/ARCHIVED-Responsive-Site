@@ -15,78 +15,45 @@
   <section id="homepageFeatures">
 
     <div class="row">
-      <div class="nine columns">
+      <div class="four columns">
+        <a href="#"><img src="images/fluid-grid.png" /><!--<div class="pic" id="homepageImgSass"></div>--></a>
 
-        <div class="row">
-          <div class="four columns">
-            <a href="whats-new.php"><img src="http://placehold.it/140x100" /><!--<div class="pic" id="homepageImgSass"></div>--></a>
-
-            <h5><a href="grid.php">Fluid Grid</a></h5>
-            <p>Foundation 3 is built with Sass, a powerful CSS preprocessor, which allows us to much more quickly develop Foundation itself &mdash; and gives you new tools to quickly customize and built on top of Foundation.</p>
-          </div>
-          <div class="four columns">
-            <a href="whats-new.php"><img src="http://placehold.it/140x100" /><!--<div class="pic" id="homepageImgFeatures"></div>--></a>
-
-            <h5><a href="#">Flexible Media</a></h5>
-            <p>We've added new elements, new options, and tons of streamlining to make this the fastest way to prototype responsively &mdash; and take that right into production.</p>
-          </div>
-          <div class="four columns">
-            <a href="whats-new.php"><img src="http://placehold.it/140x100" /><!--<div class="pic" id="homepageImgAdvanced"></div>--></a>
-
-            <h5><a href="#">Media Queries</a></h5>
-            <p>Foundation is the most advanced front-end framework in the world. While the framework works all the way back to IE8, we're taking advantage of new, awesome Web technology to help you build better and faster.</p>
-          </div>
-        </div>
-
+        <h5><a href="grid.php">Fluid Grid</a></h5>
+        <p>Foundation 3 is built with Sass, a powerful CSS preprocessor, which allows us to much more quickly develop Foundation itself &mdash; and gives you new tools to quickly customize and built on top of Foundation.</p>
       </div>
+      <div class="four columns">
+        <a href="#"><img src="images/flex-media.png" /><!--<div class="pic" id="homepageImgFeatures"></div>--></a>
 
-      <div class="three columns">
-        <div id="github">
-          <h4>Get started with responsive design!</h4>
-          <a href="http://foundation.zurb.com" class="small button">Download Foundation</a>
-          <img src="http://placehold.it/140x100" />
-        </div>
+        <h5><a href="#">Flexible Media</a></h5>
+        <p>We've added new elements, new options, and tons of streamlining to make this the fastest way to prototype responsively &mdash; and take that right into production.</p>
       </div>
+      <div class="four columns">
+        <a href="#"><img src="images/media-queries.png" /><!--<div class="pic" id="homepageImgAdvanced"></div>--></a>
 
+        <h5><a href="#">Media Queries</a></h5>
+        <p>Foundation is the most advanced front-end framework in the world. While the framework works all the way back to IE8, we're taking advantage of new, awesome Web technology to help you build better and faster.</p>
+      </div>
+    </div>
+    
+    <div class="row">
+    	<div class="eight columns">
+	        <div id="getStarted">
+	          <h4>Get started with responsive design!</h4>
+	          <h6>Foundation is the most advanced front-end framework in the world.</h6>
+	        </div>
+        </div>
+        <div class="four columns">
+        	<a href="http://foundation.zurb.com" class="small button download-option">Download Foundation</a>
+        </div>
     </div>
 
   </section>
-
-  <!--<section class="row" id="frameworkFeatures">
-    <div class="twelve columns">
-      <h3>Start here, build everywhere.</h3>
-
-      <div class="row">
-        <div class="four columns">
-          <a href="grid.php" class="pic" id="featureGrid"></a>
-          <h4><a href="grid.php">Flexible Grid</a></h4>
-
-          <p>The Grid lets you lay out pages quickly and logically with a flexible, nestable system. Even better, the Grid can be whatever size you need &mdash; it's easily adapted to any size screens, from phones to TVs.</p>
-
-        </div>
-        <div class="four columns">
-          <a href="prototyping.php" class="pic" id="featurePrototype"></a>
-          <h4><a href="prototyping.php">Rapid Prototyping</a></h4>
-
-          <p>Foundation includes dozens of styles and elements to help you quickly put together clickable prototypes, that can then be adapted and styled into polished production code. Forms, buttons, tabs, all kinds of good stuff.</p>
-
-        </div>
-        <div class="four columns">
-          <a href="mobile.php" class="pic" id="featureDevices"></a>
-          <h4><a href="mobile.php">Multidevice Mobility</a></h4>
-
-          <p>The Grid lets you quickly put together page layouts for mobile devices and the desktop. You don't need two different sites &mdash; the Grid is built to create a rock-solid experience on all kinds of devices with the exact same markup.</p>
-
-        </div>
-      </div>
-    </div>
-  </section>-->
 
   <section id="caseStudies">
    
     <div class="row">
       <div class="eight columns">
-      	<h3><a href="#">Popular Articles:</a></h3>
+      	<h3><a href="#">Recent Articles:</a></h3>
        	<div class="row">
        		<div class="four columns">
           <a href="case-soapbox.php"><img src="http://placehold.it/200x140" class="home-image"/></a>
@@ -112,37 +79,37 @@
       	<h3><a href="#">Tools and Tips:</a></h3>
         <div class="row">
         	<div class="four columns">
-        		<a href="#"><img src="http://placehold.it/150x100" class="home-image" /></a>
+        		<a href="#"><img src="images/header-icon.png" class="home-image" /></a>
         	</div>
         	<div class="eight columns">
-        		<h4><a href="case-flite.php">Header</a></h4>
+        		<h4><a href="#">Header</a></h4>
         	</div>
         </div>
         
         <div class="row">
         	<div class="four columns">
-        		<a href="#"><img src="http://placehold.it/150x100" class="home-image" /></a>
+        		<a href="#"><img src="images/nav-icon.png" class="home-image" /></a>
         	</div>
         	<div class="eight columns">
-        		<h4><a href="case-flite.php">Navigation</a></h4>
+        		<h4><a href="#">Navigation</a></h4>
         	</div>
         </div>
         
         <div class="row">
         	<div class="four columns">
-        		<a href="#"><img src="http://placehold.it/150x100" class="home-image" /></a>
+        		<a href="#"><img src="images/sidebar-icon.png" class="home-image" /></a>
         	</div>
         	<div class="eight columns">
-        		<h4><a href="case-flite.php">Sidebar</a></h4>
+        		<h4><a href="#">Sidebar</a></h4>
         	</div>
         </div>
         
         <div class="row">
         	<div class="four columns">
-        		<a href="#"><img src="http://placehold.it/150x100" class="home-image" /></a>
+        		<a href="#"><img src="images/footer-icon.png" class="home-image" /></a>
         	</div>
         	<div class="eight columns">
-        		<h4><a href="case-flite.php">Footer</a></h4>
+        		<h4><a href="#">Footer</a></h4>
         	</div>
         </div>
       </div>
