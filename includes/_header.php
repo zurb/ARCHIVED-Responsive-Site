@@ -61,7 +61,7 @@
   <div class="container top-bar home-border">
     <div class="attached">
       <div class="name" onclick="void(0);">
-        <span><a href="http://zurb.com">ZURB</a> <a href="#" class="toggle-nav"></a></span>
+        <span><a href="http://responsive.zurb.com">ZURB&nbsp;Responsive&nbsp;Design</a> <a href="#" class="toggle-nav"></a></span>
   		</div>
 
   		<ul class="right">

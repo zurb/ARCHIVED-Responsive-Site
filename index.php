@@ -6,7 +6,7 @@
     <div class="row">
       <div class="twelve columns">
         <h1>How to Design Responsively</h1>
-        <h4>Tips, tricks, howtos and best practices from the team behind Foundation.</h4>
+        <h4>Tips, tricks, how-tos and best practices curated by the team behind Foundation.</h4>
       </div>
     </div>
 
@@ -19,31 +19,31 @@
         <a href="#"><img src="images/fluid-grid.png" /><!--<div class="pic" id="homepageImgSass"></div>--></a>
 
         <h5><a href="grid.php">Fluid Grid</a></h5>
-        <p>Foundation 3 is built with Sass, a powerful CSS preprocessor, which allows us to much more quickly develop Foundation itself &mdash; and gives you new tools to quickly customize and built on top of Foundation.</p>
+        <p>Core to a responsive design is a fluid, flexible grid that allows you to quickly create complex layouts that can scale and adapt. Learn about approaches for responsive grids, how to build your own, and tools to use that will save you time and energy.</p>
       </div>
       <div class="four columns">
         <a href="#"><img src="images/flex-media.png" /><!--<div class="pic" id="homepageImgFeatures"></div>--></a>
 
         <h5><a href="#">Flexible Media</a></h5>
-        <p>We've added new elements, new options, and tons of streamlining to make this the fastest way to prototype responsively &mdash; and take that right into production.</p>
+        <p>Pixels are done for as a means of measuring size. All your media &mdash; images, videos, and more &mdash; need to exist in a world where they can scale up and down. See what tools are available now to place and manage responsive media.</p>
       </div>
       <div class="four columns">
         <a href="#"><img src="images/media-queries.png" /><!--<div class="pic" id="homepageImgAdvanced"></div>--></a>
 
         <h5><a href="#">Media Queries</a></h5>
-        <p>Foundation is the most advanced front-end framework in the world. While the framework works all the way back to IE8, we're taking advantage of new, awesome Web technology to help you build better and faster.</p>
+        <p>The technical piece that enables much of what we do in responsive design, media queries allow us to serve up a design that adapts to different screen sizes, orientations, pixel ratios and more. Learn how to make media queries work for you.</p>
       </div>
     </div>
     
     <div class="row">
     	<div class="eight columns">
 	        <div id="getStarted">
-	          <h4>Get started with responsive design!</h4>
-	          <h6>Foundation is the most advanced front-end framework in the world.</h6>
+	          <h4>Want a head start on responsive design?</h4>
+	          <h5>Foundation is the most advanced responsive front-end framework in the world.</h5>
 	        </div>
         </div>
         <div class="four columns">
-        	<a href="http://foundation.zurb.com" class="small button download-option">Download Foundation</a>
+        	<a href="http://foundation.zurb.com/download.php" class="small button download-option">Download Foundation</a>
         </div>
     </div>
 
@@ -59,8 +59,8 @@
           <a href="articles.php"><img src="http://placehold.it/200x140" class="home-image"/></a>
        		</div>
        		<div class="eight columns">
-	          <h4><a href="case-soapbox.php">This is an article title</a></h4>
-	          <p>One of the first sites built with Foundation, this site helps visitors to ZURB's speaking series learn, listen, and RSVP to events.<br /><a href="#">Read more &rarr;</a></p>
+	          <h4><a href="individual.php">This is an article title</a></h4>
+	          <p>One of the first sites built with Foundation, this site helps visitors to ZURB's speaking series learn, listen, and RSVP to events.<br /><a href="individual.php">Read more &rarr;</a></p>
        		</div> 
         </div>
         <div class="row">
@@ -68,10 +68,12 @@
           <a href="#"><img src="http://placehold.it/200x140" class="home-image" /></a>
        		</div>
        		<div class="eight columns">
-	          <h4><a href="case-soapbox.php">This is an article title</a></h4>
-	          <p>One of the first sites built with Foundation, this site helps visitors to ZURB's speaking series learn, listen, and RSVP to events.<br /><a href="#">Read more &rarr;</a></p>
+	          <h4><a href="individual.php">This is an article title</a></h4>
+	          <p>One of the first sites built with Foundation, this site helps visitors to ZURB's speaking series learn, listen, and RSVP to events.<br /><a href="individual.php">Read more &rarr;</a></p>
        		</div> 
         </div>
+        
+        <p><a href="articles.php">See more articles &rarr;</a></p>
         
       </div>
       
@@ -114,16 +116,8 @@
         </div>
       </div>
       
-    </div>
-
-    
-    <div class="row">
-    	<div class="eight columns">
-    		<a href="#">See more articles &rarr;</a>
-    	</div>
-    	<div class="four columns">
-    		<a href="#">See more tools and tips &rarr;</a>
-    	</div>
+      <p><a href="tools.php">See more tools and tips &rarr;</a></p>
+      
     </div>
     
    

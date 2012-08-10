@@ -1,17 +1,17 @@
   <footer class="row">
     <section class="five columns">
-      <h6><strong>Made by ZURB</strong></h6>
-      <p>Foundation is made by <a href="http://www.zurb.com/">ZURB</a>, a product design agency in Campbell, California. We've put more than 14 years of experience building web products, services and websites into this framework. <a href="../about.php">Foundation Info and Goodies &rarr;</a></p>
-    </section>
-
-    <section class="three columns">
-      <h6><strong>Using Foundation?</strong></h6>
-      <p>Let us know how you're using Foundation and we might feature you as an example!<br /><a href="mailto:foundation@zurb.com?subject=I'm%20using%20Foundation">Get in touch &rarr;</a></p>
+      <h6><strong>Brought to You by ZURB</strong></h6>
+      <p>This site is maintained and curated by <a href="http://www.zurb.com/">ZURB</a>, a product design agency in Campbell, California. Responsive design is the future, and we want to do what we can to make the Web a more responsive place. <a href="http://zurb.com">More About ZURB &rarr;</a></p>
     </section>
 
     <section class="four columns">
-      <h6><strong>Need some help?</strong></h6>
-      <p>For answers or help visit the <a href="docs/support.php">Support page</a>.</p>
+      <h6><strong>Want a head start?</strong></h6>
+      <p>We created <a href="http://foundation.zurb.com">Foundation</a>, the most advanced responsive front-end framework in the world. Try it out and get a jump on responsive design.</p>
+    </section>
+
+    <section class="three columns">
+      <h6><strong>Follow Along With Us</strong></h6>
+      <p>We share all kinds of goodies online.</p>
 
       <ul class="link-list">
       	<li>
@@ -31,16 +31,14 @@
   <div id="copyright">
     <div class="row">
       <div class="four columns">
-        <p>Site content &copy; 2012 ZURB, inc.</p>
+        <p>&copy; 2012 ZURB, inc.</p>
       </div>
       <div class="eight columns">
         <ul class="link-list right">
           <li><a href="index.php">Home</a></li>
-          <li><a href="download.php">Download</a></li>
-          <li><a href="docs/index.php">Documentation</a></li>
-          <li><a href="docs/installing.php">Install</a></li>
-          <li><a href="about.php">About</a></li>
-          <li><a href="http://feeds.feedburner.com/zurb/blog">Subscribe to the ZURBlog</a></li>
+          <li><a href="articles.php">Articles</a></li>
+          <li><a href="tools.php">Tools and Tips</a></li>
+          <li><a href="http://feeds.feedburner.com/zurb/blog">Subscribe to the Articles</a></li>
         </ul>
       </div>
     </div>

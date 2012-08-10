@@ -18,10 +18,15 @@ $headerColor: #292F36;
    Shared Styles
 ----------------------------------------- */
 
-header {
-  background-color: $headerColor;
-  padding: 22px 0;
+header { background-color: $headerColor; padding: 22px 0;
+  h1, h2, h3, h4, h5, h6 { color: $white; }
+  h6 { font-weight: normal; opacity: 0.4; }
+  a { color: lighten($headerColor, 50%); 
+    &:hover { color: $white; }
+  }
 }
+
+.glyph.social { font-size: 1.5em; padding-right: $minPad; }
 
 
 /* -----------------------------------------
@@ -43,8 +48,7 @@ header#homepage {background: url("../images/header.png") top left no-repeat #292
 #homepageFeatures {padding: 44px 0 !important; background: #f6f5f5 !important;}
 section#caseStudies { margin-bottom: ($minMargin + 34) !important;}
 
-#getStarted { h6 {font-weight: 300; font-size: 18px; line-height: .2;} 
-}
+#getStarted h5 {font-weight: 300; } 
 
 .small.button.download-option { margin-top: 14px; padding: 17px 30px;font-size: 14px; border: none; }
 
@@ -53,24 +57,6 @@ section#caseStudies { margin-bottom: ($minMargin + 34) !important;}
    Articles & Individual
 ----------------------------------------- */
 
-img.bump-photo { margin-top: 14px !important; }
-.top-social { ul { li { float: left; list-style: none; padding: 0 10px; } } }
 
-.twitter-share-button.twitter-count-horizontal { width: 90px;
-height: 20px;
-margin-bottom: -4px;
-margin-left: 20px; }
 
-span.fb .fb_iframe_widget { margin-bottom: -5px !important; margin-left: -15px !important; }
 
-#I0_1342644544594 { margin: 0 0 -4px 2px !important; }
-.float-right { float: right; margin-left: 20px;}
-
-#search { margin-bottom: ($minPad * 3) }
-
-.make-white { color: white; }
-.glyph.social.make-white { font-size: 1.5em; padding-right: $minPad; 
-	&:first-child { padding-left: $minPad;}
-}
-
-.glyph.social.author-social { font-size: 1.5em; padding-right: $minPad;  }
